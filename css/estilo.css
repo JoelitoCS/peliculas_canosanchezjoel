@@ -1,0 +1,89 @@
+body{
+    background-color: black;
+}
+
+#menuHome nav ul{
+    display: flex;
+    font-size: 10px;
+    float: right;
+}
+
+#menuHome nav ul li{
+    list-style: none;
+    padding: 10px;
+}
+
+#menuHome nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+#fotoAmazon{
+    border-style: solid;
+    border-color: white;
+}
+
+#fotoHBO{
+    border-style: solid;
+    border-color: white;
+}
+
+#fotoNetflix{
+    border-style: solid;
+    border-color: white;
+}
+
+#plataformas{
+    display: flex;
+}
+
+#plataformas{
+    justify-content: center;
+}
+
+#plataformas{
+    justify-content: space-between;
+}
+
+#imagenPeliculas img{
+    width: 350px;
+}
+
+#imagenPeliculas{
+    display: flex;
+}
+
+#imagenPeliculas h1{
+    color: aliceblue;
+}
+
+#imagenPeliculas{
+    margin-bottom: 50px;
+}
+
+#secTerror{
+    color: white;
+}
+
+#pelTerror{
+    justify-content:left;
+    display: flex;
+}
+
+#birdboxBarcelona{
+    padding: 20px;
+}
+
+#expedienteWarren{
+    padding: 20px;
+}
+
+#treceVidas{
+    padding: 20px;
+}
+
+
+
+
+
+
